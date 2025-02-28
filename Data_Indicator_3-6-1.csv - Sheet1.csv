@@ -1,4 +1,4 @@
-Year,Series,Country,Region,Sex,Age,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+Year,Series,Country,Region,Sex,Age,Observation status,Unit multiplier,Unit measure,GeoCode,GIS,Value
 2009,Death rate due to road traffic injuries,,,,,Normal value,Units,"Rate per 100,000 population",,3.753584577
 2010,Death rate due to road traffic injuries,,,,,Normal value,Units,"Rate per 100,000 population",,3.03539916
 2011,Death rate due to road traffic injuries,,,,,Normal value,Units,"Rate per 100,000 population",,3.097093323
