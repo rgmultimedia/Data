@@ -108,6 +108,113 @@
       "title": "Indicator_17-6-1"
     },
     {
+      "path": "Indicator_17-2-1/data.csv",
+      "name": "Indicator_17-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net Official Development Assistance (% Grross National Income)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Indicator_17-2-1"
+    },
+    {
+      "path": "Indicator_17-1-2/data.csv",
+      "name": "Indicator_17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tax-to-GDP Ratio (₦ Billion)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oil Taxes",
+                "Non-Oil Taxes",
+                "Total Tax Revenues",
+                "Total Norminal GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of domestic budget funded by domestic taxes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "Indicator_17-1-2"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
