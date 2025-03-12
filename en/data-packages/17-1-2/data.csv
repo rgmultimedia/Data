@@ -1,1 +1,25 @@
-Year,Value
+Year,Series,Type,Description,Unit,Value
+Tax-to-GDP Ratio (₦ Billion),Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,1,243.69
+Tax-to-GDP Ratio (₦ Billion),Non-Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,7,156.77
+Tax-to-GDP Ratio (₦ Billion),Total Tax Revenues,Proportion of domestic budget funded by domestic taxes,Percentage,8400.46,
+Tax-to-GDP Ratio (₦ Billion),Total Norminal GDP,Proportion of domestic budget funded by domestic taxes,Percentage,101489.49,
+Tax-to-GDP Ratio (₦ Billion),Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,1,555.32
+Tax-to-GDP Ratio (₦ Billion),Non-Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,8,707.12
+Tax-to-GDP Ratio (₦ Billion),Total Tax Revenues,Proportion of domestic budget funded by domestic taxes,Percentage,10,262.44
+Tax-to-GDP Ratio (₦ Billion),Total Norminal GDP,Proportion of domestic budget funded by domestic taxes,Percentage,113,711.63
+Tax-to-GDP Ratio (₦ Billion),Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,"2,543.57",
+Tax-to-GDP Ratio (₦ Billion),Non-Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,10,695.9
+Tax-to-GDP Ratio (₦ Billion),Total Tax Revenues,Proportion of domestic budget funded by domestic taxes,Percentage,13,239.47
+Tax-to-GDP Ratio (₦ Billion),Total Norminal GDP,Proportion of domestic budget funded by domestic taxes,Percentage,127,736.83
+Tax-to-GDP Ratio (₦ Billion),Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,2,136.2
+Tax-to-GDP Ratio (₦ Billion),Non-Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,12,580.35
+Tax-to-GDP Ratio (₦ Billion),Total Tax Revenues,Proportion of domestic budget funded by domestic taxes,Percentage,14,716.55
+Tax-to-GDP Ratio (₦ Billion),Total Norminal GDP,Proportion of domestic budget funded by domestic taxes,Percentage,144,210.49
+Tax-to-GDP Ratio (₦ Billion),Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,1,651.04
+Tax-to-GDP Ratio (₦ Billion),Non-Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,11,144.51
+Tax-to-GDP Ratio (₦ Billion),Total Tax Revenues,Proportion of domestic budget funded by domestic taxes,Percentage,12,795.55
+Tax-to-GDP Ratio (₦ Billion),Total Norminal GDP,Proportion of domestic budget funded by domestic taxes,Percentage,152,324.07
+Tax-to-GDP Ratio (₦ Billion),Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,2,148.55
+Tax-to-GDP Ratio (₦ Billion),Non-Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,16,702.51
+Tax-to-GDP Ratio (₦ Billion),Total Tax Revenues,Proportion of domestic budget funded by domestic taxes,Percentage,18,851.06
+Tax-to-GDP Ratio (₦ Billion),Total Norminal GDP,Proportion of domestic budget funded by domestic taxes,Percentage,173,527.66
