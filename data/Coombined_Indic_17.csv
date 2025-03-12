@@ -9,7 +9,7 @@ Year,Series,Unit,Value,,
 2022,Total Federally Collected Revenuerevenue as a proportion of GDP,Percentage,6.96,,
 2023,Total Federally Collected Revenuerevenue as a proportion of GDP,Percentage,8.37,,
 ,,,,,
-17.1.2,,,,,
+17-1-2,,,,,
 Year,Series,Type,Description,Unit,Value
 2016,Tax-to-GDP Ratio (₦ Billion),Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,"1,243.69"
 2016,Tax-to-GDP Ratio (₦ Billion),Non-Oil Taxes,Proportion of domestic budget funded by domestic taxes,Percentage,"7,156.77"
@@ -45,7 +45,7 @@ Year,Series,Unit,Value,,
 2021,Net Official Development Assistance (% Grross National Income),Percentage,0.82,,
 2022,Net Official Development Assistance (% Grross National Income),Percentage,0.97,,
 ,,,,,
-17.6.1,,,,,
+17-6-1,,,,,
 Year,Series,Month,Unit,Value,
 2017,Broadband Penetration,Jan,Percentage,21.69,
 2017,Broadband Penetration,Feb,Percentage,22.40,
